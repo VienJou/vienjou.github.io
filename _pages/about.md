@@ -28,15 +28,6 @@ My research primarily focuses on AI-based urban analytics, multi-modal spatiotem
 
 ## Research Interests
 
-- **AI-based urban analytics and remote sensing data processing**
-- **Multi-modal deep learning for urban livability assessment**
-- **Building functional analysis and urban land use classification**
-- **Spatio-temporal data science and geospatial AI**
-- **Urban complex systems and sustainable development**
-
-
-Research Interests
-======
 My research focuses on the intersection of urban geography, artificial intelligence, and geospatial data analysis. I am particularly interested in:
 
 - **Urban Livability Assessment**: Developing comprehensive frameworks to evaluate and measure urban quality of life using multiple data sources
