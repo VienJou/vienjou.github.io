@@ -8,7 +8,7 @@ author_profile: true
 
 **[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/). This project focuses on developing advanced methodologies for flood prediction and mapping using geospatial data fusion and machine learning techniques.
 
-**[2024.12]** Paper accepted in International Journal of Applied Earth Observation and Geoinformation: "Hierarchical building use classification from multiple modalities with a multi-label multimodal transformer network" (IF: 7.5).
+**[2024.07]** Attending [USGS 2025 CEGIS Annual Research Meeting](https://www.usgs.gov/centers/cegis/science/2025-cegis-annual-research-meeting). Given an oral presentation about "Machine learning for urban flood inundation mapping".
 
 **[2024.11]** Presented research on building usage classification at the Joint Urban Remote Sensing Event (JURSE) conference.
 
