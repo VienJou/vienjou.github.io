@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wen Zhou"
   pronouns         : "she/her"  
   bio              : "Postdoctoral scholar of University of Illinois Urbana Champaign"
   location         : "Urbana, Illinois, US"
@@ -35,9 +35,9 @@ author:
 
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
+#publication_category:
+#  books:
+#    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
