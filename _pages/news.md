@@ -6,7 +6,7 @@ author_profile: true
 
 ## Recent News
 
-**[2025.01]** Started as Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, Department of Geography and GIS. Looking forward to contributing to urban research using multiple geospatial data, GeoAI, and GIS.
+**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/). This project focuses on developing advanced methodologies for flood prediction and mapping using geospatial data fusion and machine learning techniques.
 
 **[2024.12]** Paper accepted in International Journal of Applied Earth Observation and Geoinformation: "Hierarchical building use classification from multiple modalities with a multi-label multimodal transformer network" (IF: 7.5).
 
