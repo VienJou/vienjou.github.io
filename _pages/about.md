@@ -38,9 +38,9 @@ My research focuses on the intersection of urban geography, GeoAI, and geospatia
 
 ## Recent News
 
-**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/).
+**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school 2025](https://i-guide.io/summer-school/summer-school-2025/projects/).
 
-**[2024.12]** Paper accepted in International Journal of Applied Earth Observation and Geoinformation (IF: 7.5).
+**[2024.07]** Attending [USGS 2025 CEGIS Annual Research Meeting](https://www.usgs.gov/centers/cegis/science/2025-cegis-annual-research-meeting). Given an oral presentation about "Machine learning for urban flood inundation mapping".
 
 **[2024.10]** Paper accepted in Remote Sensing of Environment (IF: 13.5).
 
