@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, Department of Geography and GIS. My research focuses on urban research using multiple geospatial data, GeoAI, and GIS. Previously, I completed my Ph.D. in Remote Sensing and Earth Observation, where I developed innovative approaches for urban livability assessment and building functional analysis using multi-modal deep learning methods.
+I am a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, Department of Geography and GIS. I completed my Ph.D. in Remote Sensing and Earth Observation, where I developed innovative approaches for urban livability assessment and building functional analysis using multi-modal deep learning methods.
 
-My research primarily focuses on AI-based urban analytics, multi-modal spatiotemporal data fusion, and their methodological and applied studies, addressing challenges related to urban environments and sustainable development goals.
+My research primarily focuses on GIS, GeoAI, especially multi-modal spatiotemporal data fusion, and their methodological and applied studies, addressing challenges related to urban resilience, environments, and sustainable development goals. 
 
 ## Education
 
@@ -22,14 +22,13 @@ My research primarily focuses on AI-based urban analytics, multi-modal spatiotem
 - **HDR NextGen Leaders Fellowship** (2025)
 - **Excellent Master's Degree Thesis Award of China University of Geoscience (Beijing)** (2019)
 - **Excellent Graduates Award of Beijing** (2019)
-- **Excellent Graduates Award of China University of Geoscience (Beijing)** (2019)
-- **Top Ten Graduate Student of CUGB Nomination** (2018)
 - **Excellent research achievement award of CUGB** (2018)
 
 ## Research Interests
 
-My research focuses on the intersection of urban geography, artificial intelligence, and geospatial data analysis. I am particularly interested in:
+My research focuses on the intersection of urban geography, GeoAI, and geospatial data analysis. I am particularly interested in:
 
+- **Flash Flood prediction**: Predicting flood depth based on multiple geospatial data using GeoAI. 
 - **Urban Livability Assessment**: Developing comprehensive frameworks to evaluate and measure urban quality of life using multiple data sources
 - **Building Functional Analysis**: Extracting and analyzing building use patterns from various geospatial datasets
 - **Deep Learning Applications**: Applying multi-modal deep learning techniques to urban research problems
@@ -39,7 +38,7 @@ My research focuses on the intersection of urban geography, artificial intellige
 
 ## Recent News
 
-**[2025.01]** Started as Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, Department of Geography and GIS.
+**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/).
 
 **[2024.12]** Paper accepted in International Journal of Applied Earth Observation and Geoinformation (IF: 7.5).
 
