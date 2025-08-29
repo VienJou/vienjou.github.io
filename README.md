@@ -1,5 +1,5 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# Homepage of Wen Zhou
+**Welcom to the homepage of Wen Zhou.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
