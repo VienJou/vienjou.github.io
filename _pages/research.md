@@ -33,8 +33,6 @@ My research focuses on the intersection of urban geography, artificial intellige
 - ***Mixed-Use Building Classification***: Advanced methods for identifying and classifying complex urban building functions
 - ***Spatial Statistics***: Applying statistical methods to understand spatial patterns and relationships in urban environments
 
-# Research Keywords
-Urban analytics, multimodal deep learning, urban land use classification, urban livability evaluation, urban property valuation, crop mapping, geospatial AI, remote sensing, spatial statistics. 
 
 # Reviewer
 - Remote Sensing of Environment
