@@ -18,7 +18,10 @@ author_profile: true
 
 **[2025.03]** Hosting a session ["AAG 2025 Symposium on Spatial AI & Data Science for Sustainability: Deep Learning Approaches for Multi-Source Data Processing and Analysis"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23502) on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
 
+**[2025.02]** Phd defense ["Deep learning methods for multiple building use and urban livability evaluation from multimodal geospatial data"](https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2025/2/117277/phd-defence-wen-zhou-deep-learning-methods-for-multiple-building-use-and-urban-livability-evaluation-from-multimodal-geospatial-data) held on 2/20/2025 from 12:30 PM to 13:30 PM CET Time, Waaier, 4, University of Twente, Enschede, The Netherlands. 
 
+**[2024.05]** Hosting a session ["AAG 2025 Symposium on Spatial AI & Data Science for Sustainability: Deep Learning Approaches for Multi-Source Data Processing and Analysis"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23502) on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
+Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network
 
 ## Research Opportunities
 
