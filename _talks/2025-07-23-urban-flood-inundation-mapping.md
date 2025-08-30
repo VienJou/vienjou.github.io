@@ -8,7 +8,7 @@ date_range: "Wednesday, July 23, 2025"
 time: "02:00 PM - 02:15 PM"
 duration: "15 mins"
 location: "Virtual"
-venue: "Conference Presentation"
+venue: "USGS 2025 CEGIS Annual Research Meeting"
 talk_type: "Conference Presentation"
 abstract: "Presentation on machine learning approaches for urban flood inundation mapping, focusing on the application of advanced computational methods to predict and map urban flooding events."
 --- 
