@@ -36,7 +36,7 @@ My research focuses on the intersection of urban geography, GeoAI, and geospatia
 
 **[2025.07]** Attending [USGS 2025 CEGIS Annual Research Meeting](https://www.usgs.gov/centers/cegis/science/2025-cegis-annual-research-meeting). Giving an oral presentation about "Machine learning for urban flood inundation mapping".
 
-**[2025.07]** Serving as one of the Guest Editors for a Special Issue in Remote Sensing (MDPI) [Innovations in Remote Sensing Image Analysis] (https://www.mdpi.com/journal/remotesensing/special_issues/7OJ5MCIWB0), focusing on cutting-edge developments in remote sensing image analysis.
+**[2025.07]** Serving as one of the Guest Editors for a Special Issue in Remote Sensing (MDPI) [Innovations in Remote Sensing Image Analysis](https://www.mdpi.com/journal/remotesensing/special_issues/7OJ5MCIWB0), focusing on cutting-edge developments in remote sensing image analysis.
 
 **[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), holding at Sheraton Grand Chicago Riverwalk | Chicago, Illinois, USA on June 17 - 19, 2025. Giving an poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
