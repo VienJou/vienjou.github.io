@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr. Zhou's Homepage"
+title: "Welcome to Wen Zhou's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
