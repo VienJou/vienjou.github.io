@@ -42,6 +42,18 @@ My research focuses on the intersection of urban geography, GeoAI, and geospatia
 
 For more detailed news and updates, please visit the [News](/news/) page.
 
+
+## Publications
+
+**[2024]** Zhou W, Persello C, Stein A. Hierarchical building use classification from multiple modalities with a multi-label multimodal transformer network[J]. International Journal of Applied Earth Observation and Geoinformation, 2024, 132: 104038. 
+
+**[2024]** Zhou W, Persello C, Li M, Stein A. Building use and mixed-use classification with a transformer-based network fusing satellite images and geospatial textual information[J]. Remote Sensing of Environment, 2023, 297: 113767. 
+
+**[2024]** Zhou W, Ming D, Lv X, et al. SO–CNN based urban functional zone fine division with VHR remote sensing image[J]. Remote Sensing of Environment, 2020, 236: 111458. 
+
+For more detailed news and updates, please visit the [Publications](/publications/) page.
+
+
 ## Awards
 
 - **HDR NextGen Leaders Fellowship** (2025)
