@@ -7,9 +7,8 @@ author_profile: true
 
 My research focuses on the intersection of urban geography, artificial intelligence, and geospatial data analysis. I develop innovative approaches to understand urban dynamics and improve urban resilience, livability through advanced computational methods.
 
-# Current Projects
+# Current Projects -（Postdoctoral Research at University of Illinois Urbana-Champaign）
 
-### Postdoctoral Research at University of Illinois Urbana-Champaign
 - ***Urban Flash flood prediction***: Predicting Urban Flash Flood combining GeoAI and multiple geospatial data sources.  
 - ***Building use and livability simultaneously prediction***: For this multi-task research, exploring using multiple geospatial data and GeoAI to predict both builidng use information and its livability score at the same time.
 
