@@ -17,12 +17,6 @@ My research primarily focuses on GIS, GeoAI, especially multi-modal spatiotempor
 - **M.Sc.** in Geoinformatics, China University of Geosciences (Beijing) (2018)
 - **B.Sc.** in Geographic Information Science, China University of Geosciences (Beijing) (2015)
 
-## Awards
-
-- **HDR NextGen Leaders Fellowship** (2025)
-- **Excellent Master's Degree Thesis Award of China University of Geoscience (Beijing)** (2019)
-- **Excellent Graduates Award of Beijing** (2019)
-- **Excellent research achievement award of CUGB** (2018)
 
 ## Research Interests
 
@@ -47,3 +41,10 @@ My research focuses on the intersection of urban geography, GeoAI, and geospatia
 **[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), holding at Sheraton Grand Chicago Riverwalk | Chicago, Illinois, USA on June 17 - 19, 2025. Giving an poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
 For more detailed news and updates, please visit the [News](/news/) page.
+
+## Awards
+
+- **HDR NextGen Leaders Fellowship** (2025)
+- **Excellent Master's Degree Thesis Award of China University of Geoscience (Beijing)** (2019)
+- **Excellent Graduates Award of Beijing** (2019)
+- **Excellent research achievement award of CUGB** (2018)
