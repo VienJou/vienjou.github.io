@@ -38,8 +38,8 @@ My research focuses on the intersection of urban geography, artificial intellige
 Urban analytics, multimodal deep learning, urban land use classification, urban livability evaluation, urban property valuation, crop mapping, geospatial AI, remote sensing, spatial statistics. 
 
 # Reviewer
-- ***Remote Sensing of Environment***
-- ***ISPRS Journal of Photogrammetry and Remote Sensing***
+- Remote Sensing of Environment
+- ISPRS Journal of Photogrammetry and Remote Sensing
 - ***IEEE Transactions on Geoscience and Remote Sensing***
 - ***Cities***
 - ***International Journal of Remote Sensing***
@@ -54,7 +54,7 @@ Urban analytics, multimodal deep learning, urban land use classification, urban 
 
 # Previous Research Highlights
 
-#### Ph.D. Research (2018-2023)
+### Ph.D. Research (2018-2023)
 - ***Estimating urban livability using multiple data sources based on multi-modal deep learning***
    - Developed innovative approaches to assess urban livability by integrating diverse data sources
    - Applied multi-modal deep learning techniques to create comprehensive urban livability indices
@@ -71,8 +71,8 @@ Urban analytics, multimodal deep learning, urban land use classification, urban 
    - Implemented advanced Transformer networks for building functional classification
    - Integrated multiple data modalities to improve classification accuracy, especially for mixed-use buildings
 
-#### Master's Research (2015-2018)
-- Urban functional information extraction from high-resolution remote sensing images based on deep learning
-  Developed deep learning approaches for extracting urban functional information from high-resolution satellite imagery
-  Implemented stratified processing methods to improve classification accuracy and efficiency
+### Master's Research (2015-2018)
+- **Urban functional information extraction from high-resolution remote sensing images based on deep learning**
+  - Developed deep learning approaches for extracting urban functional information from high-resolution satellite imagery
+  - Implemented stratified processing methods to improve classification accuracy and efficiency
 
