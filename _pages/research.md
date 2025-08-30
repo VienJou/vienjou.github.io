@@ -23,7 +23,7 @@ My research focuses on the intersection of urban geography, artificial intellige
 ### Urban spatial structure and unequality analysis
 - ***Multi-modal Deep Learning for Urban Livability***: Developing comprehensive frameworks to evaluate and measure urban quality of life using multiple data sources including remote sensing, social media, and urban infrastructure data
 - ***Building Functional Analysis***: Extracting and analyzing building use patterns from various geospatial datasets to understand urban functional diversity
-- **Urban Property Valuation**: Using machine learning and geospatial analysis to assess property values and urban development patterns
+- ***Urban Property Valuation***: Using machine learning and geospatial analysis to assess property values and urban development patterns
 
 ### Geospatial AI and Remote Sensing
 - ***Deep Learning Applications***: Applying multi-modal deep learning techniques to urban research problems
