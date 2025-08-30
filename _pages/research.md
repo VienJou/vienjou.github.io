@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: "Research"
 author_profile: true
 ---
 
@@ -11,8 +10,8 @@ My research focuses on the intersection of urban geography, artificial intellige
 # Current Projects
 
 ### Postdoctoral Research at University of Illinois Urbana-Champaign
-- **Urban Flash flood prediction**: Predicting Urban Flash Flood combining GeoAI and multiple geospatial data sources.  
-- **Building use and livability simultaneously prediction**: For this multi-task research, exploring using multiple geospatial data and GeoAI to predict both builidng use information and its livability score at the same time.
+- **Urban Flash flood prediction **: Predicting Urban Flash Flood combining GeoAI and multiple geospatial data sources.  
+- **Building use and livability simultaneously prediction **: For this multi-task research, exploring using multiple geospatial data and GeoAI to predict both builidng use information and its livability score at the same time.
 
 
 # Research Areas
