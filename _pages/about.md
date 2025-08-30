@@ -40,7 +40,6 @@ My research focuses on the intersection of urban geography, GeoAI, and geospatia
 
 **[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/). Giving an poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
-**[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), holding at Sheraton Grand Chicago Riverwalk | Chicago, Illinois, USA on June 17 - 19, 2025. Giving an poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
 
 For more detailed news and updates, please visit the [News](/news/) page.
