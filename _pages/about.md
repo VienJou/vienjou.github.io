@@ -38,14 +38,12 @@ My research focuses on the intersection of urban geography, GeoAI, and geospatia
 
 ## Recent News
 
-**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school 2025](https://i-guide.io/summer-school/summer-school-2025/projects/).
+**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/). This project focuses on developing advanced methodologies for flood prediction and mapping using geospatial data fusion and machine learning techniques.
 
-**[2024.07]** Attending [USGS 2025 CEGIS Annual Research Meeting](https://www.usgs.gov/centers/cegis/science/2025-cegis-annual-research-meeting). Given an oral presentation about "Machine learning for urban flood inundation mapping".
+**[2025.07]** Attending [USGS 2025 CEGIS Annual Research Meeting](https://www.usgs.gov/centers/cegis/science/2025-cegis-annual-research-meeting). Giving an oral presentation about "Machine learning for urban flood inundation mapping".
 
-**[2024.10]** Paper accepted in Remote Sensing of Environment (IF: 13.5).
+**[2025.07]** Serving as one of the Guest Editors for a Special Issue in Remote Sensing (MDPI) [Innovations in Remote Sensing Image Analysis] (https://www.mdpi.com/journal/remotesensing/special_issues/7OJ5MCIWB0), focusing on cutting-edge developments in remote sensing image analysis.
 
-**[2024.08]** Awarded HDR NextGen Leaders Fellowship for 2025.
-
-**[2024.07]** Paper recognized as ESI highly cited paper in Remote Sensing of Environment.
+**[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), holding at Sheraton Grand Chicago Riverwalk | Chicago, Illinois, USA on June 17 - 19, 2025. Giving an poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
 For more detailed news and updates, please visit the [News](/news/) page.
