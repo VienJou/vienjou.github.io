@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Applying Spatial Statistics into Remote Sensing Pattern Recognition: with Case Study of Cropland Extraction Based on GeOBIA"
 collection: publications
 permalink: /publication/spatial-statistics-cropland-geobia

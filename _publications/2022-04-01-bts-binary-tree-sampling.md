@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "BTS: a binary tree sampling strategy for object identification based on deep learning"
 collection: publications
 permalink: /publication/bts-binary-tree-sampling

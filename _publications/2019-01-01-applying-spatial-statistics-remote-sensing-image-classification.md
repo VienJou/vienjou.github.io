@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Applying Spatial Statistics to Evaluate the Accuracy of Remote Sensing Image Classification"
 authors: "Ming D, Qiu Y, Zhou W"
 date: 2019-01-01

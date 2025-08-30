@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Identifying Urban Functional Regions from High-Resolution Satellite Images Using a Context-Aware Segmentation Network"
 collection: publications
 permalink: /publication/identifying-urban-functional-regions-from-high-resolution-satellite-images-using-a-context-aware-segmentation-network

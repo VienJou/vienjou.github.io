@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Stratified Object-Oriented Image Classification Based on Remote Sensing Image Scene Division"
 collection: publications
 permalink: /publication/stratified-object-oriented-image-classification-based-on-remote-sensing-image-scene-division

@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Building use and mixed-use classification with a transformer-based network fusing satellite images and geospatial textual information"
 collection: publications
 permalink: /publication/building-use-and-mixed-use-classification-with-a-transformer-based-network-fusing-satellite-images-and-geospatial-textual-information

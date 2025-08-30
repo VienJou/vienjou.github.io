@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network"
 authors: "Zhou W, Persello C, Stein A"
 date: 2024-04-01

@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Building use and mixed-use classification with a transformer-based network fusing satellite images and geospatial textual information"
 authors: "Zhou W, Persello C, Li M, Stein A"
 date: 2023-01-01

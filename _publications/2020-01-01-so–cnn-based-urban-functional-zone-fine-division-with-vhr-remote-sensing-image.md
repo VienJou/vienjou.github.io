@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "SO–CNN based urban functional zone fine division with VHR remote sensing image"
 collection: publications
 permalink: /publication/so–cnn-based-urban-functional-zone-fine-division-with-vhr-remote-sensing-image

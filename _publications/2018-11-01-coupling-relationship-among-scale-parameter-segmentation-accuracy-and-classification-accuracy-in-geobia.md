@@ -1,4 +1,5 @@
 ---
+collection: publications
 title: "Coupling relationship among scale parameter, segmentation accuracy, and classification accuracy in GeOBIA"
 collection: publications
 permalink: /publication/coupling-relationship-among-scale-parameter,-segmentation-accuracy,-and-classification-accuracy-in-geobia
