@@ -27,9 +27,6 @@ author_profile: true
 
 ## Research Opportunities
 
-**Postdoctoral Positions**: Currently seeking collaborations and research opportunities in urban analytics, geospatial AI, and remote sensing applications.
-
-**Student Opportunities**: Open to supervising graduate students interested in urban geography, remote sensing, and artificial intelligence applications.
 
 **Collaborations**: Interested in interdisciplinary research collaborations focusing on urban sustainability, smart cities, and geospatial data science.
 
