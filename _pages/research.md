@@ -40,15 +40,15 @@ Urban analytics, multimodal deep learning, urban land use classification, urban 
 # Reviewer
 - Remote Sensing of Environment
 - ISPRS Journal of Photogrammetry and Remote Sensing
-- ***IEEE Transactions on Geoscience and Remote Sensing***
-- ***Cities***
-- ***International Journal of Remote Sensing***
-- ***International Journal of Digital Earth***
-- ***International Journal of Geographical Information Science***
-- ***IEEE Access***
-- ***Cartography and Geographic Information Science***
-- ***Asian Geography***
-- ***Computational Urban Science***
+- IEEE Transactions on Geoscience and Remote Sensing
+- Cities
+- International Journal of Remote Sensing
+- International Journal of Digital Earth
+- International Journal of Geographical Information Science
+- IEEE Access
+- Cartography and Geographic Information Science
+- Asian Geography
+- Computational Urban Science
 
 
 
