@@ -20,8 +20,10 @@ author_profile: true
 
 **[2025.02]** Phd defense ["Deep learning methods for multiple building use and urban livability evaluation from multimodal geospatial data"](https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2025/2/117277/phd-defence-wen-zhou-deep-learning-methods-for-multiple-building-use-and-urban-livability-evaluation-from-multimodal-geospatial-data) held on 2/20/2025 from 12:30 PM to 13:30 PM CET Time, Waaier, 4, University of Twente, Enschede, The Netherlands. 
 
-**[2024.05]** Hosting a session ["AAG 2025 Symposium on Spatial AI & Data Science for Sustainability: Deep Learning Approaches for Multi-Source Data Processing and Analysis"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23502) on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
-Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network
+**[2024.05]** Attending European Geosciences Union (EGU) 2024, and giving poster presentation about [Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network](https://meetingorganizer.copernicus.org/EGU24/EGU24-12472.html?pdf) at [ESSI – Earth & Space Science Informatics](https://meetingorganizer.copernicus.org/EGU24/sessionprogramme/5231) session on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
+
+**[2023.05]** Attending [Joint Urbana Remote Sensing Event](https://jurse2023.org/), and giving an oral presentation "Building Usage Classification Using a Transformer-based Multimodal Deep Learning Method" at [Deep learning approaches for multi-temporal and multi-modal data processing and analysis for urban areas](https://jurse2023.org/special-sessions/deep-learning-approaches-for-multi-temporal-and-multi-modal-data-processing.html) session.
+
 
 ## Research Opportunities
 
