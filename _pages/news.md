@@ -12,7 +12,7 @@ author_profile: true
 
 **[2025.07]** Serving as one of the Guest Editors for a Special Issue in Remote Sensing (MDPI) [Innovations in Remote Sensing Image Analysis](https://www.mdpi.com/journal/remotesensing/special_issues/7OJ5MCIWB0), focusing on cutting-edge developments in remote sensing image analysis.
 
-**[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), Sheraton Grand Chicago Riverwalk, Chicago, Illinois, USA on June 17 - 19, 2025. Giving a poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
+**[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), Chicago, Illinois, USA, on June 17 - 19, 2025. Giving a poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
 **[2025.04]** Attending HDR Imageomics All-hands meeting, with NextGen Leaders Fellowship.
 
