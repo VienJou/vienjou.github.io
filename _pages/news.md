@@ -6,43 +6,24 @@ author_profile: true
 
 ## Recent News
 
-**[2025.01]** Started as Postdoctoral Research Associate at the University of Illinois Urbana-Champaign, Department of Geography and GIS. Looking forward to contributing to urban research using multiple geospatial data, GeoAI, and GIS.
+**[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/). This project focuses on developing advanced methodologies for flood prediction and mapping using geospatial data fusion and machine learning techniques.
 
-**[2024.12]** Paper accepted in International Journal of Applied Earth Observation and Geoinformation: "Hierarchical building use classification from multiple modalities with a multi-label multimodal transformer network" (IF: 7.5).
+**[2025.07]** Attending [USGS 2025 CEGIS Annual Research Meeting](https://www.usgs.gov/centers/cegis/science/2025-cegis-annual-research-meeting). Giving an oral presentation about "Machine learning for urban flood inundation mapping".
 
-**[2024.11]** Presented research on building usage classification at the Joint Urban Remote Sensing Event (JURSE) conference.
+**[2025.07]** Serving as one of the Guest Editors for a Special Issue in Remote Sensing (MDPI) [Innovations in Remote Sensing Image Analysis] (https://www.mdpi.com/journal/remotesensing/special_issues/7OJ5MCIWB0), focusing on cutting-edge developments in remote sensing image analysis.
 
-**[2024.10]** Paper accepted in Remote Sensing of Environment: "Building use and mixed-use classification with a transformer-based network fusing satellite images and geospatial textual information" (IF: 13.5).
+**[2025.06]** Attending [I-GUIDE Forum 2025](https://i-guide.io/forum/forum-2025/), holding at Sheraton Grand Chicago Riverwalk | Chicago, Illinois, USA on June 17 - 19, 2025. Giving an poster presentation about "Uncovering the impact of building spatial-functional information on urban livability using machine learning".
 
-**[2024.09]** Successfully defended Ph.D. dissertation on "Urban livability estimation and building functional information extraction using multi-modal deep learning methods."
+**[2025.04]** Attending HDR Imageomics All-hands meeting, with NextGen Leaders Fellowship.
 
-**[2024.08]** Awarded HDR NextGen Leaders Fellowship for 2025.
+**[2025.03]** Hosting a session ["AAG 2025 Symposium on Spatial AI & Data Science for Sustainability: Deep Learning Approaches for Multi-Source Data Processing and Analysis"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23502) on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
 
-**[2024.07]** Paper "SO–CNN based urban functional zone fine division with VHR remote sensing image" (RSE, IF: 13.5) recognized as ESI highly cited paper.
+**[2025.02]** Phd defense ["Deep learning methods for multiple building use and urban livability evaluation from multimodal geospatial data"](https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2025/2/117277/phd-defence-wen-zhou-deep-learning-methods-for-multiple-building-use-and-urban-livability-evaluation-from-multimodal-geospatial-data) held on 2/20/2025 from 12:30 PM to 13:30 PM CET Time, Waaier, 4, University of Twente, Enschede, The Netherlands. 
 
-**[2024.06]** Presented research at EGU General Assembly 2024 in Vienna, Austria on "Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network."
+**[2024.05]** Attending European Geosciences Union (EGU) 2024, and giving poster presentation about [Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network](https://meetingorganizer.copernicus.org/EGU24/EGU24-12472.html?pdf) at [ESSI – Earth & Space Science Informatics](https://meetingorganizer.copernicus.org/EGU24/sessionprogramme/5231) session on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
 
-**[2024.05]** Started serving as reviewer for prestigious journals including Remote Sensing of Environment, ISPRS Journal of Photogrammetry and Remote Sensing, and IEEE Transactions on Geoscience and Remote Sensing.
+**[2023.05]** Attending [Joint Urbana Remote Sensing Event](https://jurse2023.org/), and giving an oral presentation "Building Usage Classification Using a Transformer-based Multimodal Deep Learning Method" at [Deep learning approaches for multi-temporal and multi-modal data processing and analysis for urban areas](https://jurse2023.org/special-sessions/deep-learning-approaches-for-multi-temporal-and-multi-modal-data-processing.html) session.
 
-## Awards & Recognition
-
-**[2025]** HDR NextGen Leaders Fellowship
-
-**[2019]** Excellent Master's Degree Thesis Award of China University of Geoscience (Beijing)
-
-**[2019]** Excellent Graduates Award of Beijing
-
-**[2019]** Excellent Graduates Award of China University of Geoscience (Beijing)
-
-**[2018]** Top Ten Graduate Student of CUGB Nomination
-
-**[2018]** Excellent research achievement award of CUGB
-
-## Upcoming Events
-
-**[2025.02]** Planning to attend the American Association of Geographers (AAG) Annual Meeting to present latest research on urban analytics and GeoAI applications.
-
-**[2025.03]** Scheduled to give invited talk on "Multi-modal Deep Learning for Urban Analysis" at the Department of Geography and GIS, University of Illinois Urbana-Champaign.
 
 ## Research Opportunities
 
