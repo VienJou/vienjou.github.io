@@ -1,5 +1,6 @@
 ---
 collection: publications
+
 title: "Urban functional zone fine division with VHR remote sensing image based on SO-CNN"
 authors: "Ming D, Zhou W, Xu L, et al"
 date: 2019-12-01

@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "Toward 3D hedonic price model for vertically developed cities using street view images and machine learning methods"
-collection: publications
+
 permalink: /publication/3d-hedonic-price-model
 date: 2025-01-01
 venue: "Habitat International"

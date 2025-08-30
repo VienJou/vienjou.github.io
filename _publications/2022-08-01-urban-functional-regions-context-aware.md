@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "Identifying Urban Functional Regions from High-Resolution Satellite Images Using a Context-Aware Segmentation Network"
-collection: publications
+
 permalink: /publication/urban-functional-regions-context-aware
 date: 2022-08-01
 venue: "Remote Sensing"

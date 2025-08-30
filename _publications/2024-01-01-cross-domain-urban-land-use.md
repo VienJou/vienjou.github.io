@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "Cross-Domain Urban Land Use Classification Via Scene-Wise Unsupervised Multi-Source Domain Adaptation With Transformer"
-collection: publications
+
 permalink: /publication/cross-domain-urban-land-use
 date: 2024-01-01
 venue: "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"

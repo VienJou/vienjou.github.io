@@ -1,5 +1,6 @@
 ---
 collection: publications
+
 title: "Cultivated land extraction based on image region division and scale estimation"
 authors: "Zhou W, Ming D P, Yan P F"
 date: 2018-01-02

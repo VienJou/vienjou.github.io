@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "BTS: a binary tree sampling strategy for object identification based on deep learning"
-collection: publications
+
 permalink: /publication/bts:-a-binary-tree-sampling-strategy-for-object-identification-based-on-deep-learning
 date: 2022-04-01
 venue: "International journal of geographical information science"

@@ -1,5 +1,6 @@
 ---
 collection: publications
+
 title: "Urban livability evaluation based on multimodal deep learning fusing multiple remote sensing images and geospatial textual data"
 authors: "Zhou W, et al"
 date: 2025-01-02

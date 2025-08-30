@@ -1,5 +1,6 @@
 ---
 collection: publications
+
 title: "Stratified Object-Oriented Image Classification Based on Remote Sensing Image Scene Division"
 authors: "Zhou W, Ming D, Xu L, Bao H, Wang M"
 date: 2018-01-01

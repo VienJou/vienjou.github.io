@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "Cultivated land extraction based on image region division and scale estimation"
-collection: publications
+
 permalink: /publication/cultivated-land-extraction
 date: 2018-07-01
 venue: "Journal of Geo-information Science"

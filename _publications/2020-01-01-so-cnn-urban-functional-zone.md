@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "SO–CNN based urban functional zone fine division with VHR remote sensing image"
-collection: publications
+
 permalink: /publication/so-cnn-urban-functional-zone
 date: 2020-01-01
 venue: "Remote Sensing of Environment"

@@ -1,7 +1,8 @@
 ---
 collection: publications
+
 title: "Farmland Extraction from High Spatial Resolution Remote Sensing Images Based on Stratified Scale Pre-Estimation"
-collection: publications
+
 permalink: /publication/farmland-extraction-from-high-spatial-resolution-remote-sensing-images-based-on-stratified-scale-pre-estimation
 date: 2019-02-01
 venue: "Remote Sensing"

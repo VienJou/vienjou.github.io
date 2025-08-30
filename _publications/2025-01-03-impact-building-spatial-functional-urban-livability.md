@@ -1,5 +1,6 @@
 ---
 collection: publications
+
 title: "Impact of building spatial and functional information on urban livability"
 authors: "Zhou W, et al"
 date: 2025-01-03
