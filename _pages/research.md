@@ -1,7 +1,9 @@
 ---
 permalink: /research/
+title: "Research"
 author_profile: true
 ---
+
 
 # Research Overview
 
