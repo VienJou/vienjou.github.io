@@ -72,7 +72,7 @@ Urban analytics, multimodal deep learning, urban land use classification, urban 
    - Integrated multiple data modalities to improve classification accuracy, especially for mixed-use buildings
 
 #### Master's Research (2015-2018)
-- ***Urban functional information extraction from high-resolution remote sensing images based on deep learning***
-  - Developed deep learning approaches for extracting urban functional information from high-resolution satellite imagery
-  - Implemented stratified processing methods to improve classification accuracy and efficiency
+- Urban functional information extraction from high-resolution remote sensing images based on deep learning
+  Developed deep learning approaches for extracting urban functional information from high-resolution satellite imagery
+  Implemented stratified processing methods to improve classification accuracy and efficiency
 
