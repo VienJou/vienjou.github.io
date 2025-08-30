@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Identifying Urban Functional Regions from High-Resolution Satellite Images Using a Context-Aware Segmentation Network"
 

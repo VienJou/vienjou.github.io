@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Urban livability evaluation based on multimodal deep learning fusing multiple remote sensing images and geospatial textual data"
 authors: "Zhou W, et al"

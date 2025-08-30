@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Coupling relationship among scale parameter, segmentation accuracy, and classification accuracy in GeOBIA"
 

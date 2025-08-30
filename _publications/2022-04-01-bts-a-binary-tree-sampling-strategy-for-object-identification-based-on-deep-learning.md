@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "BTS: a binary tree sampling strategy for object identification based on deep learning"
 

@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Applying Spatial Statistics into Remote Sensing Pattern Recognition: with Case Study of Cropland Extraction Based on GeOBIA"
 

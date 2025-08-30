@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "SO–CNN based urban functional zone fine division with VHR remote sensing image"
 

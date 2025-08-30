@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 title: "Test Publication"
 authors: "Test Author"
 date: 2024-01-01

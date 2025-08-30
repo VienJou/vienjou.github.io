@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Scale parameter estimation based on the spatial and spectral statistics in high spatial resolution image segmentation"
 

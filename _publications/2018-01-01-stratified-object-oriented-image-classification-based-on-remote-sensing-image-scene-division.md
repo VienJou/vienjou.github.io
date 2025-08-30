@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Stratified Object-Oriented Image Classification Based on Remote Sensing Image Scene Division"
 

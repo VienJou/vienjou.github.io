@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Farmland Extraction from High Spatial Resolution Remote Sensing Images Based on Stratified Scale Pre-Estimation"
 

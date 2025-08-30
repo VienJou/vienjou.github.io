@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Cultivated land extraction based on image region division and scale estimation"
 

@@ -1,5 +1,6 @@
 ---
 collection: publications
+category: manuscripts
 
 title: "Cross-Domain Urban Land Use Classification Via Scene-Wise Unsupervised Multi-Source Domain Adaptation With Transformer"
 authors: "Li M, Zhang C, Zhao W, Zhou W"
