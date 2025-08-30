@@ -1,6 +1,6 @@
 ---
 collection: publications
-category: manuscripts
+category: journals
 
 title: "Impact of building spatial and functional information on urban livability"
 authors: "Zhou W, et al"

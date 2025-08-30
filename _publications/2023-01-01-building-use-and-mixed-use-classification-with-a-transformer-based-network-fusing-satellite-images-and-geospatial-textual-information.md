@@ -1,6 +1,6 @@
 ---
 collection: publications
-category: manuscripts
+category: journals
 
 title: "Building use and mixed-use classification with a transformer-based network fusing satellite images and geospatial textual information"
 

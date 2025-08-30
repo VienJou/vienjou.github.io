@@ -1,6 +1,6 @@
 ---
 collection: publications
-category: manuscripts
+category: journals
 
 title: "Hierarchical building use classification from multiple modalities with a multi-label multimodal transformer network"
 authors: "Zhou W, Persello C, Stein A"

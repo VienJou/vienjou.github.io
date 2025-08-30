@@ -1,6 +1,6 @@
 ---
 collection: publications
-category: manuscripts
+category: journals
 
 title: "Coupling relationship among scale parameter, segmentation accuracy, and classification accuracy in GeOBIA"
 authors: "Ming D, Zhou W, Xu L, et al"

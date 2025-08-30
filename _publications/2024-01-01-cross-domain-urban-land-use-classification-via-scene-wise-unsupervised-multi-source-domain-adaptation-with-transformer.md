@@ -1,6 +1,6 @@
 ---
 collection: publications
-category: manuscripts
+category: conferences
 
 title: "Cross-Domain Urban Land Use Classification Via Scene-Wise Unsupervised Multi-Source Domain Adaptation With Transformer"
 
