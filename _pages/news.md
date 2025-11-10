@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Recent News
-**[2025.08]** Co-organizing in [AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications](https://i-guide.io/aag-2026-symposium-on-spatial-ai-data-science-frontiers-and-applications/) in [2026 AAG Annual Meeting](https://www.aag.org/events/aag2026/). This symposium focused on cyberGIS and geospatial data science at AAG annual meetings since 2011. A suite of paper/panel sessions and workshops will address cutting-edge advances of cyberGIS, spatial AI and data science, and data-intensive geospatial understanding derived from spatial and spatiotemporal data synthesis.
+**[2025.09]** Co-organizing in [AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications](https://i-guide.io/aag-2026-symposium-on-spatial-ai-data-science-frontiers-and-applications/) in [2026 AAG Annual Meeting](https://www.aag.org/events/aag2026/). This symposium focused on cyberGIS and geospatial data science at AAG annual meetings since 2011. A suite of paper/panel sessions and workshops will address cutting-edge advances of cyberGIS, spatial AI and data science, and data-intensive geospatial understanding derived from spatial and spatiotemporal data synthesis.
 
 **[2025.08]** Leading a project about "Predicting and Mapping Floods through Geospatial Data Fusion and Machine Learning" in [I-GUIDE Summer school](https://i-guide.io/summer-school/summer-school-2025/projects/). This project focuses on developing advanced methodologies for flood prediction and mapping using geospatial data fusion and machine learning techniques.
 
