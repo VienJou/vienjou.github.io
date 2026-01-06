@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Recent News
+**[2025.12]** Appointed as a member of the [Specialized Committee on Women Scientists of World Association of Young Scientists](https://waysscience.com/html/WAYS/en/index.html). 
+
 **[2025.10]** Invitation to Present on the session of [AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications](https://i-guide.io/aag-2026-symposium-on-spatial-ai-data-science-frontiers-and-applications/): [GeoAI for Multi-source Geospatial Data Fusion and Analysis](https://aag-meetings.secure-platform.com/aag2026/solicitations/93/sessiongallery/24794). This session aims to advance the application of GeoAI for multi-source data processing. We seek to explore methods that address the distinctive characteristics of various data types and offer practical solutions for their analysis. We invite researchers to share their work, showcasing innovative approaches to multi-source data integration and analysis. Additionally, we aim to engage potential new users interested in these methodologies, fostering deeper multidisciplinary interactions on this topic.
 
 **[2025.09]** Co-organizing in [AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications](https://i-guide.io/aag-2026-symposium-on-spatial-ai-data-science-frontiers-and-applications/) in [2026 AAG Annual Meeting](https://www.aag.org/events/aag2026/). This symposium focused on cyberGIS and geospatial data science at AAG annual meetings since 2011. A suite of paper/panel sessions and workshops will address cutting-edge advances of cyberGIS, spatial AI and data science, and data-intensive geospatial understanding derived from spatial and spatiotemporal data synthesis.
