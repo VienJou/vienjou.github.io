@@ -13,9 +13,9 @@ My research primarily focuses on GIS, GeoAI, especially multi-modal spatiotempor
 
 ## Education
 
-- **Ph.D.** in Remote Sensing and Earth Observation, University of Twente (2023)
-- **M.Sc.** in Geoinformatics, China University of Geosciences (Beijing) (2018)
-- **B.Sc.** in Geographic Information Science, China University of Geosciences (Beijing) (2015)
+- **Ph.D.** in Remote Sensing and Earth Observation, University of Twente (2024)
+- **M.Sc.** in Geoinformatics, China University of Geosciences (Beijing) (2019)
+- **B.Sc.** in Geographic Information Science, China University of Geosciences (Beijing) (2016)
 
 
 ## Research Interests
