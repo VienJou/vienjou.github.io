@@ -4,7 +4,38 @@ title: "News & Updates"
 author_profile: true
 ---
 
+## Upcoming
+
+**[2027]** Organizing the AAG 2027 I-GUIDE Symposium on Responsible Spatial AI and Data Science (co-organizer: Wei Hu). Two papers have been accepted for the AAG Annual Meeting 2027: "Beyond the Single Dam: A Cross-Regional Benchmark for Generalisable Dam-Breach Inundation Mapping" (Zhou W, Wang S; session "Assessing & Projecting Hazard Exposure and Vulnerability") and "Curation and Harmonization of Multi-Regional Historical Flood-Depth Data" (Liu Y, Zhou W, Wang S; session "River Dynamics 1: Forms, Processes, and Observations").
+
+**[2026.12]** Presenting two posters at the AGU Fall Meeting 2026 in San Francisco, CA: "Inundation Mapping under Aging-Dam Breach Scenarios Based on Physics-Guided Deep Learning" (Zhou W, Bae SW, Merwade V, Wang S; Session NH31F) and "Observation-Based Multimodal Learning for Point-Scale Flood Peak Forecasting" (Zhou W, Wang S; Session H51Q).
+
 ## Recent News
+
+**[2026.11]** New preprint: [Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks](https://arxiv.org/abs/2611.05220) (Zhou W, Wang S, Lall U, Merwade V, Ye D; arXiv:2611.05220).
+
+**[2026.11]** Our paper "Applying foundation model embeddings towards urban livability evaluation" (Khot A, Zhou W, Wang S) was published in the [Proceedings of the 34th ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL '26)](https://doi.org/10.1145/3841645.3843316).
+
+**[2026.10]** Gave an invited talk, "Urban Livability Evaluation Based upon Fusing Remote Sensing and Geospatial Textual Data through Multimodal Deep Learning", at the NCSA Regional AI Workshop.
+
+**[2026.10]** Our data-access and tasking proposal "Mine Reclamation Vegetation Monitoring – Pléiades Neo Tasking, SE Missouri" was approved by the NASA Commercial Satellite Data Acquisition (CSDA) Program, including two new Airbus Pléiades Neo acquisitions for vegetation monitoring at a mine-reclamation field site.
+
+**[2026 Fall]** Designed and taught a two-week graduate GIS module in GLBL 570: Methodologies of Global Studies at UIUC, covering GIS fundamentals, cartography, spatial analysis, remote sensing classification, and critical perspectives on mapping and AI.
+
+**[2026.08]** Presented a poster, "Multimodal Deep Learning for Multi-Task Flood Peak Prediction at Extended Forecast Horizons", at the I-GUIDE Forum 2026 & HDR Ecosystem Conference, Chicago, IL.
+
+**[2026.07]** Served as Assistant Team Lead at the I-GUIDE Summer School 2026, co-leading a four-university team studying window-level green visibility from Google Photorealistic 3D Tiles using semantic segmentation and HPC, linked to socioeconomic vulnerability and urban heat.
+
+**[2026.06]** Gave an oral presentation, "A Multimodal Dataset and Geospatial Deep Learning Framework for Predicting Flood Peaks", at the USGS CEGIS Annual Research Meeting 2026.
+
+**[2026.04]** Gave a guest lecture and hands-on Python session on multimodal deep learning for urban livability in CSCI-SHU 205: Urban Computing at NYU Shanghai.
+
+**[2026 Spring]** Gave a guest lecture on remote sensing applications for urban sustainability and resilience in GGIS/NRES 477: Introduction to Remote Sensing at UIUC.
+
+**[2026.03]** Our team won 4th place in the ESA Φ-lab GeoAI Challenge "Reaching New Heights with GeoFM", organized by the European Space Agency with ITU / AI for Good.
+
+**[2026.03]** Our paper [A transformer-based multi-task deep learning model for urban livability evaluation by fusing remote sensing and textual geospatial data](https://doi.org/10.1016/j.rse.2026.115232) was published in Remote Sensing of Environment (334: 115232). The [dataset and pretrained model](https://huggingface.co/datasets/Vinjou/Multimodal_urban_livability_evaluation_dataset) are available on Hugging Face.
+
 **[2026.03]** I had the opportunity to give a tutorial at the AAG Annual Meeting workshop [WS 4-4: Introduction to the I-GUIDE Platform: A Hands-on Exploration](https://aag-meetings.secure-platform.com/aag2026/solicitations/93/sessiongallery/25979) My tutorial focused on how the I-GUIDE Platform, especially its [Notebook Elements](https://platform.i-guide.io/notebooks/f856fc6e-9537-4d74-b6f0-dd64881dff28), can support both research and education. The I-GUIDE Platform is designed to enable geospatial data-intensive convergence research and education by providing a scalable and easy-access user environment for knowledge sharing and discovery. Its tools and resources support collaboration among researchers, educators, and learners.
 
 **[2026.03]** I was honored to be invited as a panelist for the AAG Annual Meeting session [Convergent GeoAI and Cyberinfrastructure for Ethical, Sustainable, and Human-Environment Resilience](https://aag-meetings.secure-platform.com/aag2026/solicitations/93/sessiongallery/25381) Centered on the guiding question—“How do we build systems that are not only scalable and high-performing, but also transparent, reliable, and aligned with real-world decision-making?”—the panel offered a valuable space for thoughtful exchange. It was a pleasure to discuss these critical topics with Dr. Xiao Huang, Dr. Alexander Michels, and Dr. Fangzheng Lyu. Our conversation explored the future of GeoAI, its ethical and sustainable applications, and the challenges of designing trustworthy systems to support human–environment resilience.
@@ -33,9 +64,9 @@ author_profile: true
 
 **[2025.02]** PhD defense [Deep learning methods for multiple building use and urban livability evaluation from multimodal geospatial data](https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2025/2/117277/phd-defence-wen-zhou-deep-learning-methods-for-multiple-building-use-and-urban-livability-evaluation-from-multimodal-geospatial-data) held on 2/20/2025 from 12:30 PM to 13:30 PM CET Time, Waaier, 4, University of Twente, Enschede, The Netherlands. 
 
-**[2024.05]** Attending European Geosciences Union (EGU) 2024, and giving poster presentation about [Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network](https://meetingorganizer.copernicus.org/EGU24/EGU24-12472.html?pdf) at [ESSI – Earth & Space Science Informatics](https://meetingorganizer.copernicus.org/EGU24/sessionprogramme/5231) session on 3/27/2025 from 12:50 PM to 2:10 PM Eastern Time in 356, Level 3, Huntington Place.
+**[2024.05]** Attending European Geosciences Union (EGU) 2024, and giving poster presentation about [Building hierarchical use classification based on multiple data sources with a multi-label multimodal transformer network](https://meetingorganizer.copernicus.org/EGU24/EGU24-12472.html?pdf) at [ESSI – Earth & Space Science Informatics](https://meetingorganizer.copernicus.org/EGU24/sessionprogramme/5231) session, Vienna, Austria.
 
-**[2023.05]** Attending [Joint Urbana Remote Sensing Event](https://jurse2023.org/), and giving an oral presentation "Building Usage Classification Using a Transformer-based Multimodal Deep Learning Method" at [Deep learning approaches for multi-temporal and multi-modal data processing and analysis for urban areas](https://jurse2023.org/special-sessions/deep-learning-approaches-for-multi-temporal-and-multi-modal-data-processing.html) session.
+**[2023.05]** Attending [Joint Urban Remote Sensing Event (JURSE 2023)](https://jurse2023.org/), and giving an oral presentation "Building Usage Classification Using a Transformer-based Multimodal Deep Learning Method" at [Deep learning approaches for multi-temporal and multi-modal data processing and analysis for urban areas](https://jurse2023.org/special-sessions/deep-learning-approaches-for-multi-temporal-and-multi-modal-data-processing.html) session.
 
 
 ## Research Opportunities
