@@ -22,7 +22,7 @@ repository               : "VienJou/vienjou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wen Zhou"
   pronouns         : "she/her"  
   bio              : "Postdoctoral scholar of University of Illinois Urbana Champaign"
