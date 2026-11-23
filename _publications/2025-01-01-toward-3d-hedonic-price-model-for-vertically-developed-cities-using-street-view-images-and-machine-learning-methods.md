@@ -4,7 +4,7 @@ category: journals
 
 title: "Toward 3D hedonic price model for vertically developed cities using street view images and machine learning methods"
 authors: Ying Y., Dai S., Koeva M., Kuffer M., Persello C., Zhou W., Zevenbergen J.
-date: 2025-02
+date: 2025-02-01
 venue: "Habitat International"
 volume: "156"
 pages: "103288"
